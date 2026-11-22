@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+
+    <h1 align="center">Reserve a Table</h1>
+
+    <hr>
+
+    <h2 align="center">Book Your Table</h2>
+
+    <form>
+
+        <table border="1" cellpadding="10" align="center">
+
+            <tr>
+                <td>Full Name:</td>
+                <td>
+                    <input type="text" name="fullname" required pattern="[A-z, a-z]+">
+                </td>
+            </tr>
+
+            <tr>
+                <td>Email:</td>
+                <td>
+                    <input type="email" name="email" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Phone:</td>
+                <td>
+                    <input type="tel" name="phone">
+                </td>
+            </tr>
+
+            <tr>
+                <td>Date of Visit:</td>
+                <td>
+                    <input type="date" name="date" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Time:</td>
+                <td>
+                    <input type="time" name="time">
+                </td>
+            </tr>
+
+            <tr>
+                <td>Number of Guests:</td>
+                <td>
+                    <select name="guests">
+
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Special Requests:</td>
+                <td>
+                    <textarea name="requests" rows="" cols=""></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="center">
+                    <button type="submit">Submit Reservation</button>
+                </td>
+            </tr>
+
+        </table>
+
+    </form>
+
+    <hr>
+
+    <p align="center">
+        <b>Copyright &copy; 2026 Spice Garden. All Rights Reserved.</b>
+    </p>
+
+    <p align="center">
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="chefs.html">Our Chefs</a> |
+        <a href="reservation.html">Reservations</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="contact.html">Contact Us</a>
+    </p>
+ </body>
+</html>

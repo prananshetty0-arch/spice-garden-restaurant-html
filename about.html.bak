@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+    <center><h1 >About Us</h1></center>
+
+    <hr>
+
+    <h2>Our Story</h2>
+
+    <p>
+        Spice Garden was founded in 2005 with a simple dream
+        of serving delicious food and bringing people together.
+        We started our journey as a small family restaurant.
+    </p>
+
+    <p>
+        Our restaurant is known for its traditional recipes,
+        fresh ingredients and wonderful flavours. We believe
+        that good food creates beautiful memories.
+    </p>
+
+    <p>
+        Today, Spice Garden continues to serve customers with
+        love, quality and dedication. Our aim is to provide
+        every guest with a memorable dining experience.
+    </p>
+
+    <hr>
+
+    <h2>Our Milestones</h2>
+
+    <ul>
+        <li>2005 - Opened our first restaurant branch.</li>
+        <li>2010 - Introduced our special family recipes.</li>
+        <li>2015 - Received an award for excellent food quality.</li>
+        <li>2020 - Expanded our restaurant services.</li>
+    </ul>
+
+    <hr>
+
+    <h2>What Our Customers Say</h2>
+
+    <blockquote>
+        "Spice Garden serves amazing food with wonderful taste.
+        The atmosphere is welcoming, and the service is excellent.
+        It is one of my favourite restaurants!"
+    </blockquote>
+
+    <p>
+        <cite>- Pranan Shetty</cite>
+    </p>
+
+    <hr>
+
+    <h2>Our Restaurant</h2>
+
+    <img src="https://tse3.mm.bing.net/th/id/OIP.x-metc5tgfbh_NEFn8D8AQHaE8?r=0&pid=Api&h=220&P=0"
+         alt="Beautiful interior of Spice Garden Restaurant"
+         width="400"
+         height="250">
+
+    <hr>
+
+    <center><p >
+        <b>Copyright &copy; 2026 Spice Garden. All Rights Reserved.</b>
+    </p>
+</center>
+    <center>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="chefs.html">Our Chefs</a> |
+        <a href="reservation.html">Reservations</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="contact.html">Contact Us</a>
+    </center>
+ </body>
+</html>

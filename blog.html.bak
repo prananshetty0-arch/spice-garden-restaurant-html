@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+
+    <h1 align="center">Recipes & Stories</h1>
+
+    <hr>
+
+    <h2>Our Latest Blog Posts</h2>
+
+    <article>
+
+        <h2>How to Make Perfect Biryani</h2>
+
+        <p>
+            Published on:
+            <time datetime="2026-11-10">10 November 2026</time>
+        </p>
+
+        <p>
+            Biryani is one of the most popular Indian dishes.
+            It is prepared using rice, spices and delicious
+            ingredients. Learn how to prepare perfect biryani
+            at home.
+        </p>
+
+        <img src="https://tse4.mm.bing.net/th/id/OIP.URzLyKX5LLSZRhTOlgUvxgHaE8?r=0&pid=Api&h=220&P=0" alt="Delicious Chicken Biryani"
+        width="300" height="200">
+
+        <p>
+            <a href="#recipe">Read More</a>
+        </p>
+
+    </article>
+
+    <hr>
+
+    <article>
+
+        <h2>Benefits of Eating Fresh Vegetables</h2>
+
+        <p>
+            Published on:
+            <time datetime="2026-11-12">12 November 2026</time>
+        </p>
+
+        <p>
+            Fresh vegetables are an important part of a
+            healthy diet. They provide vitamins, minerals
+            and nutrients that help keep our body healthy.
+        </p>
+
+        <img src="https://thumbs.dreamstime.com/z/fresh-healthy-vegetables-carrot-tomato-onion-cauliflower-broccoli-cucumber-generated-ai-artificial-intelligence-291677217.jpg" alt="Fresh healthy vegetables"
+        width="300" height="200">
+
+        <p>
+            <a href="#recipe">Read More</a>
+        </p>
+
+    </article>
+
+    <hr>
+
+    <article>
+
+        <h2>Traditional Indian Cooking Secrets</h2>
+
+        <p>
+            Published on:
+            <time datetime="2026-11-15">15 November 2026</time>
+        </p>
+
+        <p>
+            Indian cooking is famous for its rich flavours
+            and spices. Traditional recipes are passed down
+            through generations and make every dish special.
+        </p>
+
+        <img src="indianfood.jpg" alt="Traditional Indian food"
+        width="300" height="200">
+
+        <p>
+            <a href="#recipe">Read More</a>
+        </p>
+
+    </article>
+
+    <hr>
+
+    <article id="recipe">
+
+        <h2>Full Recipe: Chicken Biryani</h2>
+
+        <h3>Ingredients</h3>
+
+        <ul>
+            <li>500 grams chicken</li>
+            <li>2 cups basmati rice</li>
+            <li>2 onions</li>
+            <li>2 tomatoes</li>
+            <li>1 cup curd</li>
+            <li>Ginger garlic paste</li>
+            <li>Biryani masala</li>
+            <li>Salt as required</li>
+            <li>Fresh coriander leaves</li>
+        </ul>
+
+        <h3>Preparation Steps</h3>
+
+        <ol>
+            <li>Wash the rice properly and soak it in water.</li>
+
+            <li>Clean the chicken and marinate it with curd,
+            spices and ginger garlic paste.</li>
+
+            <li>Heat oil in a pan and fry the onions.</li>
+
+            <li>Add tomatoes and marinated chicken.</li>
+
+            <li>Cook the chicken until it becomes tender.</li>
+
+            <li>Boil the rice separately until it is partially cooked.</li>
+
+            <li>Layer the rice over the chicken mixture.</li>
+
+            <li>Cover the vessel and cook on low flame.</li>
+
+            <li>Garnish with coriander leaves and serve hot.</li>
+        </ol>
+
+    </article>
+
+    <hr>
+
+    <aside>
+
+        <h3>Popular Posts</h3>
+
+        <ul>
+            <li>
+                <a href="#recipe">How to Make Perfect Biryani</a>
+            </li>
+
+            <li>
+                <a href="#recipe">Benefits of Eating Fresh Vegetables</a>
+            </li>
+
+            <li>
+                <a href="#recipe">Traditional Indian Cooking Secrets</a>
+            </li>
+
+            <li>
+                <a href="#recipe">Top 5 Indian Desserts</a>
+            </li>
+        </ul>
+
+    </aside>
+
+    <hr>
+
+    <p align="center">
+        <b>Copyright &copy; 2026 Spice Garden. All Rights Reserved.</b>
+    </p>
+
+    <p align="center">
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="chefs.html">Our Chefs</a> |
+        <a href="reservation.html">Reservations</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="contact.html">Contact Us</a>
+    </p>
+ </body>
+</html>

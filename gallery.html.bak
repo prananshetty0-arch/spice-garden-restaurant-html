@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+
+    <center><h1>Our Gallery</h1></center>
+
+    <hr>
+
+    <h2>Food Gallery</h2>
+
+    <figure>
+        <img src="https://cdn.grofers.com/assets/search/usecase/banner/paneer_tikka_01.png" alt="Delicious Paneer Tikka"
+        width="300" height="200">
+        <figcaption>Paneer Tikka</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://static.vecteezy.com/system/resources/previews/065/582/713/large_2x/fresh-chicken-biryani-served-with-beautiful-and-lush-background-free-photo.jpg" alt="Fresh Chicken Biryani"
+        width="300" height="200">
+        <figcaption>Chicken Biryani</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://png.pngtree.com/png-vector/20240618/ourmid/pngtree-a-hot-fresh-cheesy-pizza-white-background-png-image_12789630.png" alt="Hot and cheesy pizza"
+        width="300" height="200">
+        <figcaption>Cheese Pizza</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://tse2.mm.bing.net/th/id/OIP.HubUls0TEoHIJO3r0vUvLAHaEO?r=0&pid=Api&h=220&P=0" alt="Fresh vegetable burger"
+        width="300" height="200">
+        <figcaption>Veg Burger</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://bakewithzoha.com/wp-content/uploads/2023/04/gulab-jamun-3-scaled.jpg" alt="Sweet Gulab Jamun"
+        width="300" height="200">
+        <figcaption>Gulab Jamun</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://tse1.mm.bing.net/th/id/OIP.Dp6uVsCB7CygWbdVhf0NoAHaNM?r=0&pid=Api&h=220&P=0" alt="Vanilla ice cream dessert"
+        width="300" height="200">
+        <figcaption>Vanilla Ice Cream</figcaption>
+    </figure>
+
+    <hr>
+
+    <h2>Restaurant Ambience</h2>
+
+    <figure>
+        <img src="https://tse2.mm.bing.net/th/id/OIP.k6_spvGqaFk0ZC__wK3hiwHaE8?r=0&pid=Api&h=220&P=0" alt="Beautiful restaurant dining area"
+        width="300" height="200">
+        <figcaption>Restaurant Dining Area</figcaption>
+    </figure>
+
+    <figure>
+        <img src="https://tse1.mm.bing.net/th/id/OIP.CZfYhC-qhXrF4dgtD9xZhgHaHa?r=0&pid=Api&h=220&P=0" alt="Comfortable restaurant seating"
+        width="300" height="200">
+        <figcaption>Comfortable Seating Area</figcaption>
+    </figure>
+
+    <figure>
+        <img src="interior3.jpg" alt="Beautiful restaurant interior"
+        width="300" height="200">
+        <figcaption>Restaurant Interior</figcaption>
+    </figure>
+
+    <hr>
+
+    <center><p>
+        <b>Copyright &copy; 2026 Spice Garden. All Rights Reserved.</b>
+    </p></center>
+
+    <center><p>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="chefs.html">Our Chefs</a> |
+        <a href="reservation.html">Reservations</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="contact.html">Contact Us</a>
+    </p></center>
+ </body>
+</html>

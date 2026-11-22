@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+
+    <center><h1 >Our Menu</h1></center>
+
+  
+<html>
+<head>
+    <title>Spice Garden - Our Menu</title>
+</head>
+
+<body>
+
+    <h1 align="center">Our Menu</h1>
+
+    <hr>
+
+    <h2>1. Starters</h2>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+
+        <caption>Starters Menu</caption>
+
+        <thead>
+            <tr>
+                <th>Dish Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Paneer Tikka</td>
+                <td>Grilled paneer with Indian spices.</td>
+                <td>Rs. 180</td>
+            </tr>
+
+            <tr>
+                <td>Veg Spring Roll</td>
+                <td>Crispy rolls filled with vegetables.</td>
+                <td>Rs. 120</td>
+            </tr>
+
+            <tr>
+                <td>Chicken Tikka</td>
+                <td>Grilled chicken with Indian spices.</td>
+                <td>Rs. 220</td>
+            </tr>
+
+            <tr>
+                <td>Tomato Soup</td>
+                <td>Fresh tomato soup with herbs.</td>
+                <td>Rs. 100</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <br>
+    <hr>
+
+    <h2>2. Main Course</h2>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+
+        <caption>Main Course Menu</caption>
+
+        <thead>
+            <tr>
+                <th>Dish Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Paneer Butter Masala</td>
+                <td>Paneer cooked in creamy tomato gravy.</td>
+                <td>Rs. 250</td>
+            </tr>
+
+            <tr>
+                <td>Veg Biryani</td>
+                <td>Rice cooked with vegetables and spices.</td>
+                <td>Rs. 200</td>
+            </tr>
+
+            <tr>
+                <td>Chicken Biryani</td>
+                <td>Flavourful rice cooked with chicken.</td>
+                <td>Rs. 280</td>
+            </tr>
+
+            <tr>
+                <td>Dal Tadka</td>
+                <td>Yellow lentils cooked with Indian spices.</td>
+                <td>Rs. 160</td>
+            </tr>
+
+            <tr>
+                <td>Butter Naan</td>
+                <td>Soft Indian bread topped with butter.</td>
+                <td>Rs. 50</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <br>
+    <hr>
+
+    <h2>3. Desserts</h2>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+
+        <caption>Desserts Menu</caption>
+
+        <thead>
+            <tr>
+                <th>Dish Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Gulab Jamun</td>
+                <td>Sweet milk balls soaked in sugar syrup.</td>
+                <td>Rs. 80</td>
+            </tr>
+
+            <tr>
+                <td>Ice Cream</td>
+                <td>Delicious and creamy vanilla ice cream.</td>
+                <td>Rs. 100</td>
+            </tr>
+
+            <tr>
+                <td>Chocolate Brownie</td>
+                <td>Rich chocolate brownie served fresh.</td>
+                <td>Rs. 120</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <br>
+    <hr>
+
+    <p align="center">
+        <b>Copyright &copy; 2026 Spice Garden. All Rights Reserved.</b>
+    </p>
+
+    <p align="center">
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="chefs.html">Our Chefs</a> |
+        <a href="reservation.html">Reservations</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="contact.html">Contact Us</a>
+    </p>
+
+</body>
+</html>
+
+ </body>
+</html>
